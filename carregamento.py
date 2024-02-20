@@ -2,12 +2,12 @@ from sqlalchemy import create_engine
 import pandas as pd
 
 
-usuario = 'obqsthil'
-senha = 'rt8Q20TgMc8QSx2tlTDiy4wbOcgDgh6y'
-host = 'silly.db.elephantsql.com'
+usuario = ''
+senha = ''
+host = ''
 porta = '5432'
-banco_de_dados = 'obqsthil'
-tabela = 'precos_ativos'
+banco_de_dados = ''
+tabela = ''
 
 conexao_string = f"postgresql://{usuario}:{senha}@{host}:{porta}/{banco_de_dados}"
 
