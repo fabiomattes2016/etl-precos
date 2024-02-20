@@ -30,16 +30,16 @@ Para usuários de **Windows CMD**:
 .\.venv\Scripts\activate.bat
 ```
 
-Em seguida instale as depêndencias do projeto:
-
-```powershell
-pip install -r requirements.txt
-```
-
 Para usuários de **Bash**:
 
 ```bash
 .\.venv\Scripts\activate
+```
+
+Em seguida instale as depêndencias do projeto:
+
+```powershell
+pip install -r requirements.txt
 ```
 
 Extração dos dados:
