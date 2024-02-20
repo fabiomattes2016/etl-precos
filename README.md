@@ -4,6 +4,7 @@ Este projeto consiste em um ETL (Extração, Transformação e Carregamento) des
 
 ## Ferramentas Utilizadas
 
+- **Python 3.11**: Interpretador python usado no projeto
 - **Selenium**: Utilizado na etapa de extração para navegar e obter dados de páginas web.
 - **Pandas**: Empregado na etapa de transformação para manipular e preparar os dados.
 - **SQLAlchemy**: Usado para facilitar a conexão com o banco de dados e o carregamento dos dados.
