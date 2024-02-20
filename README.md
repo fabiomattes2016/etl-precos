@@ -16,27 +16,9 @@ Antes de executar o projeto, é necessário alterar os dados de conexão com o s
 
 ## Como Executar
 
-Para executar o projeto, siga os passos abaixo. Certifique-se de ter o ambiente virtual ativado.
+Para executar o projeto, siga os passos abaixo.
 
-Para usuários de **Windows PowerShell**:
-
-```powershell
-.\.venv\Scripts\activate.ps1
-```
-
-Para usuários de **Windows CMD**:
-
-```powershell
-.\.venv\Scripts\activate.bat
-```
-
-Para usuários de **Bash**:
-
-```bash
-.\.venv\Scripts\activate
-```
-
-Em seguida instale as depêndencias do projeto:
+Instale as depêndencias do projeto:
 
 ```powershell
 pip install -r requirements.txt
